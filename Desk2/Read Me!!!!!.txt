@@ -1,0 +1,21 @@
+game controls :
+press 'enter' to goto the shop
+press 'ctrl' for fire a laser
+press 'pause' to pause the game
+press 'esc' to exit the game
+and use the arrow keys to move the ship a round the screen
+
+i hope you will enjoy the code and playing the game.
+mail me if you found a bug and know how to fix... 
+and mail me if you played the game to say what you think about it!
+
+
+enjoy!!!!
+
+need source code or help goto :
+
+bdtech.msgserver.net 
+
+or mail :
+
+Egberttheone@hotmail.com
